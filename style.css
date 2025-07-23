@@ -1,0 +1,9 @@
+h1{
+    font-family: 'noto-serif';
+    font-weight: bold;
+}
+p{
+    font-family: 'inter';
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+}
