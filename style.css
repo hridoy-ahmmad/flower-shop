@@ -7,3 +7,9 @@ p{
     color: rgba(0, 0, 0, 0.5);
     font-weight: normal;
 }
+.card-section p,h5{
+   color: #111111;
+}
+button{
+    font-family: 'inter';
+}
