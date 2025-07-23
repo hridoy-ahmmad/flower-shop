@@ -38,3 +38,15 @@ button{
     background-size: cover;
     background-blend-mode:multiply;
 }
+.join{
+    background-image: url('assets/news-letter-bg.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+  
+}
+
+ input[type="email"]{
+    font-family: 'inter';
+    color: #111111ad;
+}
