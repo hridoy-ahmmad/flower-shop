@@ -13,3 +13,9 @@ p{
 button{
     font-family: 'inter';
 }
+.badge-section li{
+    color:rgba(0, 0, 0, 0.5) ;
+    font-family: 'inter';
+    line-height: 27px;
+    
+}
