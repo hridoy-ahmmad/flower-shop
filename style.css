@@ -15,7 +15,26 @@ button{
 }
 .badge-section li{
     color:rgba(0, 0, 0, 0.5) ;
-    font-family: 'inter';
-   
-    
+    font-family: 'inter'; 
+}
+.deals-1 {
+    background-image: url('assets/deal-bloom.png');
+    background-color: #26262680;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:multiply;
+}
+.deals-2 {
+    background-image: url('assets/deal-ana.png');
+    background-color: #26262680;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:multiply;
+}
+.deals-3 {
+    background-image: url('assets/deal-zabo.png');
+    background-color: #26262680;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:multiply;
 }
