@@ -18,28 +18,28 @@ button{
     font-family: 'inter'; 
 }
 .deals-1 {
-    background-image: url('/assets/deal-bloom.png');
+    background-image: url('assets/deal-bloom.png');
     background-color: #26262680;
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode:multiply;
 }
 .deals-2 {
-    background-image: url('/assets/deal-ana.png');
+    background-image: url('assets/deal-ana.png');
     background-color: #26262680;
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode:multiply;
 }
 .deals-3 {
-    background-image: url('/assets/deal-zabo.png');
+    background-image: url('assets/deal-zabo.png');
     background-color: #26262680;
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode:multiply;
 }
 .join{
-    background-image: url('/assets/news-letter-bg.png');
+    background-image: url('assets/news-letter-bg.png');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
